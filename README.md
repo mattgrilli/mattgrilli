@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm Matt Grilli, a passionate programmer with a diverse background in software development.
+Hey there! 👋 I'm Matt Grilli.
 
 ## Background
 
