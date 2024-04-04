@@ -6,7 +6,7 @@ Hey there! 👋 I'm Matt Grilli, a passionate programmer with a diverse backgrou
 
 - **Early Days**: My journey in programming began with Visual Basic and tinkering with AOL progz. I was fascinated by the possibilities of creating software and pushing the boundaries of what was possible.
   
-- **C# Scripting**: I delved deeper into programming through C# scripting for my private Ultima Online Server. It was my playground for experimenting with game mechanics and scripting logic.
+- **C# Scripting**: I delved deeper into programming through C# scripting for my private Ultima Online Server. It was my playground for experimenting with game mechanics and scripting logic.  It was also around this time in conjunction with running and scripting for my private server I began dabbling in HTML in order to promote the server.
 
 - **Web Development**: My interests shifted towards web development, where I found myself exploring the dynamic world of Python, Flask, JavaScript, HTML, and CSS. Building web applications became my new passion as I embraced the versatility and interactivity the web offers.
 
