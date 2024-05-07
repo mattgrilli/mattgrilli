@@ -1,15 +1,15 @@
 # About Me
 
-Hey there! 👋 I'm Matt Grilli.
+Hey, I'm Matt Grilli! 
 
-## Background
+## Quick Highlights
 
-- **Early Days**: My journey in programming began with Visual Basic and tinkering with AOL progz. I was fascinated by the possibilities of creating software and pushing the boundaries of what was possible.
+- **Old School Beginnings:** Hacked around with Visual Basic and AOL progz.
   
-- **C# Scripting**: I delved deeper into programming through C# scripting for my private Ultima Online Server. It was my playground for experimenting with game mechanics and scripting logic.  It was also around this time in conjunction with running and scripting for my private server I began dabbling in HTML in order to promote the server.
+- **Gaming Geek:** C# scripting for my own Ultima Online Server.
 
-- **Web Development**: My interests shifted towards web development, where I found myself exploring the dynamic world of Python, Flask, JavaScript, HTML, and CSS. Building web applications became my new passion as I embraced the versatility and interactivity the web offers.
+- **Web Wizard:** Got hooked on Python, Flask, JavaScript, and web dev magic.
 
-- **Next JS with TypeScript**: Currently, I'm diving into Next JS with TypeScript, combining the power of React with the reliability and scalability of TypeScript. It's an exciting journey, and I'm constantly learning and expanding my skills.
+- **Next Up:** Next.js and TypeScript for the win.
 
-Thanks for stopping by! 🚀
+
